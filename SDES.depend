@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631665339 source:d:\escritorio\codeblocks-16.01mingw-setup\codeblocks-16.01mingw-setup\sdes\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+
